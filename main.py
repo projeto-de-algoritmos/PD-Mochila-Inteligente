@@ -96,7 +96,7 @@ def adicionar_item_mochila():
 	aux_mochila.append(items[opt-1])
 	aux_mochila = knapsack01(aux_mochila, capacidade)
 
-	if aux_mochila.sort() == mochila.sort():
+	if sorted(aux_mochila) == sorted(mochila):
 		input("[-] Nao ha vantagem em pegar o item, precione ENTER para continuar")
 		return
 
