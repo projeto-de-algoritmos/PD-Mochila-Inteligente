@@ -8,8 +8,8 @@ menu_txt = """
 [?] """
 
 items = [
-	("Espada brilhante", 2, 50), ("Espada de pau", 1, 20), ("Espada de fogo", 5, 70), ("Escudo de pedra", 9, 30),
-	("Escudo de pau", 5, 20), ("Escudo do zelda", 7, 45), ("Machado de ferro", 3, 50), ("Bota de botas", 1, 40),
+	("Túnica única", 2, 50), ("Espada de pau", 1, 20), ("Espada de fogo", 5, 70), ("Escudo de pedra", 9, 30),
+	("Escudo de pau", 5, 20), ("Chapéu nobre", 7, 45), ("Machado de ferro", 3, 50), ("Bota de botas", 1, 40),
 	("Queijo de mamute", 1, 10)
 	]
 
