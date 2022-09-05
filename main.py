@@ -17,12 +17,11 @@ mochila = [("Bota de botas", 1, 40), ("Espada brilhante", 2, 50), ("Escudo de pe
 
 
 def totalvalue(comb):
-	' Totalise a particular combination of items'
-	totwt = totval = 0
-	for item, wt, val in comb:
-		totwt  += wt
-		totval += val
-	return (totval, -totwt) if totwt <= 400 else (0, 0)
+	peso_total = valor_total = 0
+	for item, peso, valor in comb:
+		peso_total  += peso
+		valor_total += valor
+	return (valor_total, -peso_total)
 
 
 def knapsack01(items, cap):
