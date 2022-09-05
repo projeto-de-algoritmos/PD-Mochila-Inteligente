@@ -13,7 +13,7 @@ items = [
 	("Queijo de mamute", 1, 10)
 	]
 
-mochila = [("Bota de botas", 1, 40), ("Espada brilhante", 2, 50), ("Escudo de pedra", 9, 30)]
+mochila = []
 
 
 def totalvalue(comb):
