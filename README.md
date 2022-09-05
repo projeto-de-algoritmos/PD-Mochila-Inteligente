@@ -1,37 +1,22 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Mochila Inteligente
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 5<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| Matrícula  | Aluno        |
+| ---------- | ------------ |
+| 18/0074741 | Caio Martins |
+| 18/0105345 | Lucas Lima   |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Após muitas horas de Skyrim o nosso Kahjiita Maurício relatou um problema no jogo: qual a melhor opção de itens para levar na mochila sem andar em câmera lenta por excesso de peso? Considerando o problema descrito, resolvemos criar um projeto que pega os itens e os seleciona da melhor forma possível de acordo com o peso e o valor de cada item. 
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+**Linguagem**: Python<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
